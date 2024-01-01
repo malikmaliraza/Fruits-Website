@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(241, 251, 254);
+
+}
+
+h1 {
+    color: rgb(20, 48, 92);
+ 
+   
+}
+
+hr {
+ 
+   width: 90%;
+   border-style: none;
+   border-top-style: dashed;
+   border-width: 3px;
+
+   
+}
+
+img{
+ 
+    height: 200px;
+    width: 200px;
+}
+img:hover{
+    background-color: gold;
+}
+.apple {
+    background-color: yellow ;
+}
+.circular {
+    border-radius: 100%;
+}
+/* apple is red
+banana is yellow
+grapes are gareen
+mango is yellow */
+.banana {
+    background-color: orange;
+}
+.grapes {
+    background-color:blue ;
+}
+.mango {
+    background-color: red;
+}
